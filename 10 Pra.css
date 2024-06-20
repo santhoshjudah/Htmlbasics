@@ -1,0 +1,32 @@
+table,th,td{
+    border: 30px solid blueviolet;
+    border-collapse:collapse;
+}
+
+th{
+   background-color: lightcoral;
+}
+
+td{
+    background-color: violet;
+}   
+
+table{
+    height:30vh;
+    width:20vh;
+}
+
+.first{
+    margin-left:20vh;
+    margin-top:30vh;
+}
+
+.second{
+    margin-left:80vh;
+    margin-top:-30vh;
+}
+
+.third{
+    margin-left:140vh;
+    margin-top:-30vh;
+}

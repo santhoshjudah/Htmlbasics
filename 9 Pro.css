@@ -1,0 +1,10 @@
+.well{
+    border:10vh solid grey;
+    margin:30vh;
+    padding:10vh;
+    background-color:navy;
+    color: blue;
+    height: 20vh;
+    width: 30vh;
+    text-align: center;
+}

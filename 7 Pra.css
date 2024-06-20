@@ -1,0 +1,60 @@
+body{
+    background-color: rgb(160, 153, 94);
+}
+
+.hello{
+    background-color: rgb(133, 49, 49);
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+    color: cadetblue;
+}
+
+.hii{
+    background-color: blue;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+    color: darkseagreen;
+}
+
+.good{
+    background-color: brown;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: left;
+    color: greenyellow;
+}
+
+.bad{
+    background-color: midnightblue;
+    font-size: 40px;
+    text-align: left;
+    color: burlywood;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.black{
+    background-color: indigo;
+    color: rgb(107, 38, 38);
+    font-size: 40px;
+    font-family: monospace;
+    text-align: left;
+}
+
+.red{
+    background-color: blueviolet;
+    color: rgba(163, 152, 147, 0.527);
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+}
+
+
+
+
+
+
+
+
+

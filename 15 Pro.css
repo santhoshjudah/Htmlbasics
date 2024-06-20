@@ -1,0 +1,110 @@
+body{
+    overflow: hidden;
+}
+.col1{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.shoes{
+    background-image: url(Right\ Side.png);
+    background-repeat:round;
+    background-size:cover;
+    /* background-position: left; */
+    float:left;
+    height: 100vh;
+    width: 110vh;
+    
+}
+
+.form{
+    margin-left: 30vh;
+}
+
+.sub2{
+    font-weight: none;  
+    font-size: 3vh;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.sub3{
+    font-size: 2.5vh;
+    margin-left: 10vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.sub4{
+    font-size: 2vh;
+    margin-left: 8vh;
+
+}
+.sub5{
+    font-size: 2vh;
+    color: red;
+}
+
+.lab1{
+    font-size: 2.5vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.lab2{
+    font-size: 2.5vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 3vh;
+}
+.lab3{
+    font-size: 2.5vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 2vh;
+}
+
+.box{
+    height: 2.5vh;
+    width: 2.5vh;
+    border-color: #00000040;
+    border-radius: 4px;
+}
+
+.lab4{
+    border-radius: none;
+    background-color: indianred;
+    color: white;
+    font-size: 2.5vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 2vh;
+    height:6vh;
+    width: 50vh;
+    border-radius: 12px;
+    border-style: hidden;
+    border-color: solid grey;
+}
+
+.lab5{
+    background-color: white;
+    color: black;
+    font-size: 2.5vh ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 2vh;
+    height:6vh;
+    width: 50vh;
+    border-radius: 12px;
+    border-color: #00000040;
+}
+
+.img{
+    height: 3vh;
+    width: 3vh;
+}
+
+.mail{
+    width: 50vh;
+    border-radius: 10px;
+    height: 6vh;
+    border-color: #00000040;
+}
+.pass{
+    width: 50vh;
+    border-radius: 10px;
+    border-color: #00000040;
+    height: 6vh;
+}

@@ -1,0 +1,79 @@
+body{
+    background-color:whitesmoke;
+    align-items:right;
+    justify-content:center;
+    display: flex;
+    height: 80vh;
+    padding: 100px;
+}
+
+.form{
+    background-color:white;
+    height:290px;
+    width:350px;
+    border: none;
+    border-radius: 10px;
+    padding: 5vh;
+    font-size:15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: darkgray;
+    text-align: center;
+    margin-left: 5vh;
+    margin-top: 20px;
+}
+
+.mail{
+    border-color:white;
+    width: 350px;
+    padding: 10px;
+    font-size: 2.5vh;
+    border-radius: 10px;    
+}
+
+.pass{
+    border-color:white;
+    width: 350px;
+    padding: 10px;
+    font-size: 2.5vh;
+    border-radius: 10px;
+ }
+
+.box{
+    width: 350px;
+    padding: 10px;
+    background-color:royalblue;
+    font-size: 2.5vh;   
+    color: white;
+    border-radius: 10px;
+    border: none;
+}
+
+.sele{
+    background-color: yellowgreen;
+    color: white;
+    width: 200px;
+    height:10vh;
+    margin-top:5px;
+    font-size: 3vh;
+    border-radius: 10px;
+    border: none;
+}
+
+.link{
+    font-size:2.1vh;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    color: mediumslateblue;
+}
+
+.p{
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ margin-top:5px;
+ margin-left: -40vh;
+ font-size: 5vh;
+}
+
+.h{
+    color: royalblue;
+    font-size: 10vh;
+}

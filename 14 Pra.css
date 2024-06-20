@@ -1,0 +1,64 @@
+.col1{
+    background-image:url(image\ 14.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: fixed;
+}   
+
+.col2{
+    background-color: lightblue;
+    height: 100vh;
+}
+
+
+
+.col2{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-size: 3vh;
+}
+
+.form1{
+    background-color: whitesmoke;
+    border-radius: 5px;
+    height: 60vh;
+    padding: 10px;
+}
+.mail{
+    width: 50vh;
+    border-radius: 10px;
+    border-style: none;
+    font-size: 4vh;
+    margin-top: 3vh;
+    padding: 1px;
+}
+
+.num{
+    width: 50vh;
+    border-radius: 5px;
+    border-style: none;
+    font-size: 4vh;
+    margin-top: 3vh;
+    padding: 1PX;
+}
+
+.log{
+    width: 50vh;
+    border-radius: 5px;
+    margin-top: 3vh;
+    color: steelblue;
+}
+
+.account{
+    width: 50vh;
+    border-radius: 5px;
+    margin-top: 3vh;
+    color: steelblue;
+}
+
+.h1{
+    font-size: 4px;
+}
+

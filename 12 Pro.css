@@ -1,0 +1,26 @@
+body{
+    margin: 0%;
+    background-image:url(back.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: fixed;
+}
+
+.menubar{
+    width: 100%;
+    background-color: slateblue;
+    overflow: auto;
+    border: 2px solid black;
+    padding: 15px;
+}
+
+.menubar a{
+    float: left;
+    font-size: 30px;
+    color: whitesmoke;
+    padding: 30px;
+}
+
+.menubar a :hover{
+    background-color: yellowgreen;
+}

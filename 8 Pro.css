@@ -1,0 +1,28 @@
+table,th,td{
+    border: 50px solid green;
+    border-collapse:collapse;
+}
+
+th{
+   background-color: lightcoral;
+}
+
+td{
+    background-color: violet;
+}
+
+table{
+    height: 40px;
+    width:  40px;
+}
+
+.main{
+    margin-left: 70vh;
+    margin-top: 30vh;
+}
+
+
+
+
+
+

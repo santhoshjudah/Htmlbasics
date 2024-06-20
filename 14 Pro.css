@@ -1,0 +1,49 @@
+.col1{
+    background-color: violet;
+    height: 100vh;
+}
+
+.col2{
+    background-color: indigo;
+    height: 100vh;
+}
+.col3{
+    background-color: blue;
+    height: 100vh;
+}
+.col4{
+    background-color: green;
+    height: 100vh;  
+}
+.col5{
+    background-color: yellow;
+    height: 100vh;
+}
+.col6{
+    background-color: orange;
+    height: 100vh;
+}
+.col7{
+    background-color: red;
+    height: 100vh;
+}
+.col8{
+    background-color: rgb(255, 149, 149);
+    height: 100vh;
+}
+.col9{
+    background-color: rgb(255, 176, 124);
+    height: 100vh;
+}
+.col10{
+    background-color: rgb(255, 233, 111);
+    height: 100vh;
+}
+.col11{
+    background-color: rgb(194, 255, 113);
+    height: 100vh;
+}
+.col12{
+    background-color: rgb(112, 255, 93);
+    height: 100vh;
+}

@@ -1,0 +1,42 @@
+body{
+    margin: 0%;
+
+}
+.menubar{
+    width:100%;
+    background-color: yellowgreen;
+    overflow:auto;
+    border:2px solid black;
+    padding: 15px;
+}
+
+.menubar a{
+    float:left;
+    font-size: 30px;
+    color: darkgreen;
+    padding: 20px;
+}
+
+.menubar a:hover{  
+    background-color: brown;
+}
+
+.menubar1{
+    height: 90%;
+    width:5%;
+    background-color: yellowgreen;
+    overflow:auto;
+    border:2px solid black;
+    padding: 15px;
+}
+
+.menubar1 a{
+    float:left;
+    font-size: 30px;
+    color: darkgreen;
+    padding: 20px;
+}
+
+.menubar1 a:hover{  
+    background-color: brown;
+}

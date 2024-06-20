@@ -1,0 +1,31 @@
+body{
+     background-color: rgb(110, 110, 39);
+}
+
+.Hii{
+      background-color: rgb(114, 108, 105);
+      text-align: left;
+      font-size: 20px;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.Hello{
+    background-color: darkgreen;
+    text-align: left;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.white{
+    background-color: brown;
+    text-align: left;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.black{
+    background-color: darkslateblue;
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;   
+}

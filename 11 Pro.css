@@ -1,0 +1,43 @@
+body{
+    align-items: center;
+    justify-content:center;
+    display: flex;
+    height: 90vh;
+}
+
+.form{
+    background-color: blue;
+    height: 40vh;
+    width: 40vh;
+    border: 5px solid black;
+    padding: 90px;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: darkgray;
+}
+
+.submit{
+    display: flex;
+    font-size: 30px;
+    margin-top: 10vh;
+}   
+
+.box{
+    padding: 5px;
+}
+
+.box1{
+    padding: 5px;
+}
+
+.box2{
+    padding: 5px;
+}
+
+box3{
+    padding: 5px;
+}
+
+.first{
+    margin-top: -10vh;
+}
